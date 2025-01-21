@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -40,3 +41,6 @@ Our Employee Management System is an efficient, user-friendly tool designed to s
 ## Why Choose Our System?  
 Our Employee Management System is an ideal solution for businesses looking to foster collaboration, enhance efficiency, and achieve organizational excellence.
 >>>>>>> cd510ca9d86262f5870f7e5b447df2b6531d868e
+=======
+# EMS
+>>>>>>> a57e6949555e468400bb9827aec5a704e325b47e
